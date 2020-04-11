@@ -13,7 +13,7 @@ description, long_description = __doc__.split('\n\n', 1)
 VERSION = '0.1'
 
 setup(
-    name='django-office365-login',
+    name='django-office365',
     version=VERSION,
     author='Venkatesh',
     description=description,
