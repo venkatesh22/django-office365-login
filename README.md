@@ -1,2 +1,2 @@
 # django-office365-login
-login with office365 
+jango login using office365 
